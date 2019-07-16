@@ -1,4 +1,4 @@
-![](https://miro.medium.com/max/1400/1*KL_LNcA5ckUXhll6yXwacg.gif)
+![Frappe Charts Gif](https://miro.medium.com/max/1400/1*KL_LNcA5ckUXhll6yXwacg.gif)
 
 Modern and Simple Charts with Frappe Charts
 
